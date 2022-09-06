@@ -15,9 +15,9 @@ Project Files
 
 Below is the overall process. You can access the screenshots folder to have better understanding:
 
-   # Create a S3 bucket
-   # Upload the website files to your bucket
-   # Configure the bucket for website hosting
-   # Secure the bucket using IAM policies
-   # Speed up content delivery using AWS’ content distribution network service, CloudFront
-   # Access your website in a browser using the unique CloudFront endpoint
+    Create a S3 bucket
+    Upload the website files to your bucket
+    Configure the bucket for website hosting
+    Secure the bucket using IAM policies
+    Speed up content delivery using AWS’ content distribution network service, CloudFront
+    Access your website in a browser using the unique CloudFront endpoint
