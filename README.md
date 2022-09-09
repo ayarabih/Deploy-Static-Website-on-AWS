@@ -1,4 +1,4 @@
-# Deploy Static Website on AWS
+# Project 1 - Deploy Static Website on AWS
 
 This is one of the project in Udacity Cloud DevOps Engineer Nanodegree.
 Project Overview
