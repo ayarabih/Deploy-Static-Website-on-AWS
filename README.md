@@ -1,5 +1,14 @@
 # Project 1 - Deploy Static Website on AWS
 
+Hello, my name:  Aya Rabih working! Dev-ops engineering in multinational lovely company and today we will learn Deploy Static Website on AWS. This project it is so critical to lean it and get more info for cloud and AWS.
+So, in this documentation you will find all steps you need it to create it with deep details
+
+to see documantation for all step - [ pdf steps > click here](https://github.com/ayarabih/Deploy-Static-Website-on-AWS/blob/main/static%20website1.pdf)
+
+![architecture](https://github.com/ayarabih/Deploy-Static-Website-on-AWS/assets/109382355/41f78653-72f6-4eab-8390-450908c0bd86)
+
+
+# overview
 This is one of the project in Udacity Cloud DevOps Engineer Nanodegree.
 Project Overview
 
